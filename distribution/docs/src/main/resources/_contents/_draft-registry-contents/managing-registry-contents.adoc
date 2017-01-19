@@ -10,6 +10,7 @@ To use the ${ddf-registry}, the following apps/features must be installed:
 * ${ddf-spatial}
 * ${ddf-platform}
 * ${ddf-security}
+* ${ddf-blah blahblah}
 
 === Installing ${ddf-registry}
 
@@ -437,4 +438,3 @@ Remove a subscription.
 . Click the *Delete* icon at the top of the *Remote Registries* tab.
 . Check the boxes of the Registry Nodes to be deleted.
 . Select the *Delete* button.
-
